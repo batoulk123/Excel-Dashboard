@@ -10,7 +10,7 @@ A Coffee Shop wants to create sales report for four years(2019-2022). So that th
 
 2- Compare the sales by country using bar chart.
 
-3- which coffee type ordered more?
+3- Which coffee type ordered more?
 
 4- List Top 5 customers contributing the sales.
 
