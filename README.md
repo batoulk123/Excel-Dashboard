@@ -1,4 +1,4 @@
-# Excel-Dashboard
+# Coffe Sales Excel-Dashboard
 
 ## Project Objective
 
